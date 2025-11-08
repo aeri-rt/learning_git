@@ -1,14 +1,18 @@
 ---
 title: "A few of my favorite things"
-author: "Alex Hurtado Desaulniers"
+author: "Ryan Trinh"
 output: html_notebook
 ---
 
 Unordered List:
 
- - Books and Reading
- - Yarn and Crocheting 
- - Bikes and MTB
- - Modding controllers and Playing Videogames
+- Gym and sports 
+  - I've played almost everything but currently enjoy tennis, pickleball, table tennis, and futbol.
+- Otaku culture
+  - Anime, manga, light novels, gacha games, i love it all :D
+- tech stuff
+  - code and hardware projects, optimizing things that are totally unnecessary for fun
+- music
+  - i love music. music is life. i enjoy a lot of different genres. i also play piano and guitar.
 
-🍴
+🤯
